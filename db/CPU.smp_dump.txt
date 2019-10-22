@@ -1,0 +1,15 @@
+
+State Machine - |CPU|UnidadeDeControle:UnidadeDeControlePort|prox
+Name prox.L prox.K prox.J prox.I prox.H prox.G prox.F prox.E prox.D prox.C prox.B prox.A 
+prox.A 0 0 0 0 0 0 0 0 0 0 0 0 
+prox.B 0 0 0 0 0 0 0 0 0 0 1 1 
+prox.C 0 0 0 0 0 0 0 0 0 1 0 1 
+prox.D 0 0 0 0 0 0 0 0 1 0 0 1 
+prox.E 0 0 0 0 0 0 0 1 0 0 0 1 
+prox.F 0 0 0 0 0 0 1 0 0 0 0 1 
+prox.G 0 0 0 0 0 1 0 0 0 0 0 1 
+prox.H 0 0 0 0 1 0 0 0 0 0 0 1 
+prox.I 0 0 0 1 0 0 0 0 0 0 0 1 
+prox.J 0 0 1 0 0 0 0 0 0 0 0 1 
+prox.K 0 1 0 0 0 0 0 0 0 0 0 1 
+prox.L 1 0 0 0 0 0 0 0 0 0 0 1 

@@ -1,0 +1,75 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Marcos Lelis/Desktop/KKKKKKKKKKKKKKKKKK/simulation/qsim
+vCPU
+Z1 !s110 1571753370
+!i10b 1
+!s100 GQAz0@Xo[MLMc<bCMlJ[32
+I[W0[Li6;T0JEYW89aY?zf2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1571753369
+Z4 8CPU.vo
+Z5 FCPU.vo
+L0 31
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1571753370.000000
+Z8 !s107 CPU.vo|
+Z9 !s90 -work|work|CPU.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@c@p@u
+vCPU_vlg_vec_tst
+R1
+!i10b 1
+!s100 Z[>R5>O=1LzeWF3aXg]XC1
+Ii]8`mhM_N_;98RC8Ko2XH0
+R2
+R0
+w1571753367
+8Waveform8.vwf.vt
+FWaveform8.vwf.vt
+L0 29
+R6
+r1
+!s85 0
+31
+R7
+!s107 Waveform8.vwf.vt|
+!s90 -work|work|Waveform8.vwf.vt|
+!i113 1
+R10
+R11
+n@c@p@u_vlg_vec_tst
+vhard_block
+R1
+!i10b 1
+!s100 oVeKOQgcP;`82_m3CgjGU3
+IWczFGk;=5LGaF[o9@2K:C1
+R2
+R0
+R3
+R4
+R5
+L0 4539
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11

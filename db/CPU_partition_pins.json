@@ -1,0 +1,181 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Regi0[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Regi0[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Regi0[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Regi0[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Regi0[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Regi0[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Regi0[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Regi0[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Regi1[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Regi1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Regi1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Regi1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Regi1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Regi1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Regi1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Regi1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Regi2[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Regi2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Regi2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Regi2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Regi2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Regi2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Regi2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Regi2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Regi3[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Regi3[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Regi3[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Regi3[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Regi3[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Regi3[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Regi3[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Regi3[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Instrucao[9]",
+					"strict" : false
+				},
+				{
+					"name" : "Clock",
+					"strict" : false
+				},
+				{
+					"name" : "Instrucao[8]",
+					"strict" : false
+				},
+				{
+					"name" : "Instrucao[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Instrucao[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Instrucao[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Instrucao[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Instrucao[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Instrucao[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Instrucao[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Instrucao[5]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
